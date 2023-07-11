@@ -1,4 +1,4 @@
-package br.com.dslist.dslist;
+package br.com.projeto.dslist;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
