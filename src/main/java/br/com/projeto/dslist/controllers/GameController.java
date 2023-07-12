@@ -20,7 +20,7 @@ public class GameController {
   private GameService gameService;
 
   @GetMapping
-  public List<GameMinDTO> getAll() {
+  public List<GameMinDTO> findAll() {
     return gameService.findAll();
   }
 
